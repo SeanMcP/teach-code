@@ -18,4 +18,6 @@
 
 - Shots: All caps (*e.g.* SCREENSHARE OF DUCKDUCKGO.COM WITH FACECAM)
 - Transitions: All caps and bold with trailing colon (*e.g.* **CUT TO:**)
-- Dialog: Normal case, assumed to be from me (*e.g.* Crazy right!)
+- Actions: Imperative in normal case (*e.g.* Change "CodeSandbox" to "YouTube")
+- Dialog: Prefixed with `>`, assumed to be from me (See examle below)
+> Crazy right!
