@@ -28,7 +28,9 @@ CUT
 
 > Now, I want to try to combine my two careers: teaching and developing. My goal for this channel -- the one you're watching right now -- is to provide instructional videos for folks of all ages to learn to code.
 
-> All of my videos will use online resources that are available to anyone with a computer and internet connection. You wont't need to install anything to participate. So it doesn't matter if you're on a Chromebook, laptop, or anything in between; these videos will work for you. Just make sure you have a keyboard to type along.
+> All of my videos will use online resources that are available to anyone with a computer and internet connection. You wont't need to install anything to participate.
+
+> So it doesn't matter if you're on a Chromebook, laptop, or anything in between; these videos will work for you. Just make sure you have a keyboard to type along.
 
 CUT
 
