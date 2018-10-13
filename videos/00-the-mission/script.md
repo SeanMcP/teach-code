@@ -2,32 +2,44 @@
 ---
 FACECAM
 
-> Hey, my name is Sean, and I am a software developer. That means I get to work with computers to solve problems everyday. I love making stuff, learning skills, and working to make peoples' lives easier. I really love my work.
+> Hey everyone and welcome to Learn to Code with Sean McP. Today we're going to learn about: this channel.
+
+Wave sign reading "THIS CHANNEL"
+
+INTRODUCTION
+
+Learn to Code with Sean McP
 
 CUT
 
-> But it wasn't always that way. I went to college to be a teacher. Growing up, my dad was a high-school chemistry teacher, and I got to see the wonderful impact that he had on his students and our community. I wanted to be like him; I wanted to become a teacher so that I could help make the world a better place.
+> My name is Sean, and I am a software developer. That means I get to work with computers and solve problems everyday.
 
-> After four years, I graduated with a degree in middle-level education and worked for three years as a teacher in Pennsylvania and Georgia. But it just wasn't a good fit. *I* wasn't a good fit.
-
-CUT
-
-> So, I resigned after the 2016-2017 school year and enrolled in a coding bootcamp. Six months and a lot of hard work later, I received an offer for my first software developer position -- this job that I mentioned at the beginning.
-
-> The starting salary exceeded my previous teacher's salary and the coding bootcamp's tuition... combined. Six months of work and I was able to change my life. It all seemed so easy.
+> I love making stuff, learning skills, and working to make peoples' lives easier. At my job, I get to do all these things; and it's pretty great. But I haven't always been a developer.
 
 CUT
 
-> And, from the outside, it was that easy. People I meet, either at work or friends, can't believe how quickly things changed for me. But the view from the outside is only half the story... if that.
+> In fact, went to college to study education and worked for three years as a teacher in Pennsylvania and Georgia. I learned a lot about collaboration and problem solving and gained a huge appreciation for the hard work that teachers do every day.
 
 CUT
 
-> The whole story is that I've been playing around with computers since I was little. I made my first website when I was twelve, and, by high school, I had created my first company: a web design and development agency with a classmate.
-
-> Through college, I coded on and off, usually over the summers. I enjoyed the creative outlet and challenge that comes from learning to do new things with computers. So when I decided to leave the teaching, it was only natural to pursue coding.
-
-> The coding bootcamp I attended helped me solidify and expand on the skills I had already developed when I was younger. When I started my first development position, I wasn't a fresh "graduate" who had only been coding for a few months; I had over a decade of assorted coding experience under my belt. That's the whole story.
+> Seriously, teaching takes a ton of work and dedication; they're awesome. Go hug a teacher in your life.
 
 CUT
 
-> That was the secret to my success: experience. But that's not necessarily the case for everyone. Now there are plenty of coding bootcamp graduates who had no prior experience and went on to have successful careers as developers.
+> Now, I want to try to combine my two careers: teaching and developing. My goal for this channel -- the one you're watching right now -- is to provide instructional videos for folks of all ages to learn to code.
+
+> All of my videos will use online resources that are available to anyone with a computer and internet connection. You wont't need to install anything to participate. So it doesn't matter if you're on a Chromebook, laptop, or anything in between; these videos will work for you. Just make sure you have a keyboard to type along.
+
+CUT
+
+> It's my hope that teachers will be able to use these videos to introduce their students to code. Or maybe you're out of school and watching this, and you want to make a career switch -- like I did. These videos will work for you too.
+
+CUT
+
+> Ultimately, my goal is to help other people; so let me know in the comments of this video if there is anything you would like help learning. Let's do it together!
+
+CUT
+
+> That's all for this video. Stay tuned for the first lesson which should come out shortly.
+
+> Until then, happy coding!
