@@ -43,3 +43,5 @@ CUT
 > That's all for this video. Stay tuned for the first lesson which should come out shortly.
 
 > Until then, happy coding!
+
+END SCREEN
